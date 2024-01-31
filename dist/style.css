@@ -1,0 +1,23 @@
+body{ 
+background-image:url("https://i.gifer.com/4uNG.gif");
+}
+h1{
+  color:SlateGrey;	
+  text-align:center;
+}
+.BYTSI{
+ border:3px solid black;
+  margin:10px;
+    height:450px; 
+  width:200px;
+   text-align:center;
+  font-size:30px;
+color:Red;
+float:left;
+}
+.BYTSI:hover{
+    border:2px solid Red;
+}
+a{
+color:Aqua;  
+}
